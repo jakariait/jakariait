@@ -83,8 +83,8 @@ I don’t just write code — **I design systems that scale**.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jakaria&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jakaria&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jakariait&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jakariait&layout=compact)
 
 ---
 
