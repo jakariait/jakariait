@@ -12,7 +12,7 @@ I’m a passionate **Full-Stack Developer** with strong experience in building
 **production-grade MERN & Next.js applications**.
 
 I specialize in:
-- Clean architecture (Controller–Service pattern)
+- Clean architecture and Scalable
 - Secure REST APIs
 - Admin dashboards & role-based systems
 - Real-world business solutions (eCommerce, Exam Systems, SaaS)
